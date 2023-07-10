@@ -1,0 +1,66 @@
+{"myProducts" : [
+    {
+        "id": 1,
+        "name": "Sparkle Rectangle Earing",
+        "price": "10.00",
+        "image": "https://i.postimg.cc/RZGVBCFL/p1s.jpg",
+        "description": "18k gold plating, Water and Tarnish Proof."
+      },
+      {
+        "id": 2,
+        "name": "Heart Dangle Earing",
+        "price": "20.00",
+        "image": "https://i.postimg.cc/1X2HjZxG/LJ10s.jpg",
+        "description": "18k gold plating, Water and Tarnish Proof."
+      },
+      {
+        "id": 3,
+        "name": "Pearl Necklace Set",
+        "price": "30.00",
+        "image": "https://i.postimg.cc/43gfVK0G/LJ7s.jpg",
+        "description": "18k gold plating, Water and Tarnish Proof."
+      },
+      {
+        "id": 4,
+        "name": "Box Hoop",
+        "price": "40.00",
+        "image": "https://i.postimg.cc/Zq8kSVVt/p4s.jpg",
+        "description": "18k gold plating, Water and Tarnish Proof."
+      },
+      {
+        "id": 5,
+        "name": "Diamond Bulky Hoop",
+        "price": "50.00",
+        "image": "https://i.postimg.cc/VNQyp39W/p7s.jpg",
+        "description": "18k gold plating, Water and Tarnish Proof."
+      },
+      {
+        "id": 6,
+        "name": "Tiny Heart Hoop",
+        "price": "60.00",
+        "image": "https://i.postimg.cc/TwdsXGKg/p3s.jpg",
+        "description": "18k gold plating, Water and Tarnish Proof."
+      },
+      {
+        "id": 7,
+        "name": "Dangle Hoop",
+        "price": "70.00",
+        "image": "https://i.postimg.cc/4dWSfMcM/p6s.jpg",
+        "description": "18k gold plating, Water and Tarnish Proof."
+      },
+      {
+        "id": 8,
+        "name": "Layered Sparkle Earing",
+        "price": "80.00",
+        "image": "https://i.postimg.cc/2y2rf2j8/p2s.jpg",
+        "description": "18k gold plating, Water and Tarnish Proof."
+      },
+      {
+        "id": 9,
+        "name": "Lock Hoop",
+        "price": "90.00",
+        "image": "https://i.postimg.cc/BZgqDQ59/p5s.jpg",
+        "description": "18k gold plating, Water and Tarnish Proof."
+      }
+]
+} 
